@@ -10,6 +10,8 @@ Please edit our manuscript!
 
 *Italicized text: Optional Items*
 
+## Example topics (from the August 2015 NCBI-NLM Genomics Hackathon)
+
 **RNAseq**
 
 1.  Homogenous mapping of all human RNAseq reads
