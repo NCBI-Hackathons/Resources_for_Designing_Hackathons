@@ -1,55 +1,29 @@
 ** Daily Schedule for an "Anabolic" Hackathon!**
-
 National Library of Medicine, NIH Campus
-
 If you tweet, please use #NCBIhackathon
-
 Please edit our manuscript!
-
 **Please note that this is a dynamic document, and therefore subject to change at the discretion of the instructors.  **
-
 *Italicized text: Optional Items*
-
 ## Example topics (from the August 2015 NCBI-NLM Genomics Hackathon)
-
 **RNAseq**
-
-1.  Homogenous mapping of all human RNAseq reads
-
-2.  Comparison tool for human RNAseq reads
-
+   1.  Homogenous mapping of all human RNAseq reads
+   2.  Comparison tool for human RNAseq reads
 **Variation**
-
-1.  Multiple myeloma clustering team
-
-1a. dbGaP usability script subteam
-
-2.  The variant interpreter super team! (formerly the variant scanning and push button .vcf team).  
-
-+ Github repos have been combined.  Google groups will be (probably today)
-
-2a.  The cell type classification subteam (which will work with homogenous mapping)
-
+   1.  Multiple myeloma clustering team
+      1a. dbGaP usability script subteam
+   2.  The variant interpreter super team! (formerly the variant scanning and push button .vcf team).  
+      + Github repos have been combined.  Google groups will be (probably today)
+      2a.  The cell type classification subteam (which will work with homogenous mapping)
 **Democratization of Bioinformatics**
-
-1.  The Educational Experience Team
-
-1a.  The Vm library subteam
-
-2.  The SEQR team
-
+   1.  The Educational Experience Team
+      1a.  The Vm library subteam
+   2.  The SEQR team
 Six things for writers
-
-1. (1) Introductory Paragraph
-
-2. (2) Methods Paragraphs
-
-3. (2) Results Paragraphs
-
-4. (1) Discussion Paragraph
-
-#NCBIhackathon
-
+   1. (1) Introductory Paragraph
+   2. (2) Methods Paragraphs
+   3. (2) Results Paragraphs
+   4. (1) Discussion Paragraph
+#Specific Daily Schedule
 Day 1,  XXX -- Location
 
 9:00-9:30: Introductions, Administrative Announcements and **_Building Functional Software_**
