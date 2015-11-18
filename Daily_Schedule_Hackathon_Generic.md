@@ -10,6 +10,8 @@ Please edit our manuscript!
 
 *Italicized text: Optional Items*
 
+### Example Topics from August, 2015 NCBI Hackathon 
+
 **RNAseq**
 
 1.  Homogenous mapping of all human RNAseq reads
@@ -46,7 +48,7 @@ Six things for writers
 
 4. (1) Discussion Paragraph
 
-#NCBIhackathon
+#NCBI Hackathon
 
 Monday,  XXX -- Location
 
@@ -112,7 +114,7 @@ Monday,  XXX -- Location
 
     * Everyone else work on first sketch of plan (one page google doc, or similar)
 
-* All teams return to BOR room
+* All teams return to main location
 
 * 12:15 - 1:00: Working lunch and sharing of initial searches and discussion between groups (catered lunch opt-in 1; see poll)
 
@@ -160,7 +162,7 @@ Day 3 -- Location
 
     * Writers break off for writers group
 
-    * Editorial representative from NIH library will be there to assist.  
+    * Editorial representative from library will be there to assist.  
 
     * Everyone else documents code and writes READMEs
 
